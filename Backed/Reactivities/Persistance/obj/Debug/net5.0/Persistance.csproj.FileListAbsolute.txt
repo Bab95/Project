@@ -1,0 +1,15 @@
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\bin\Debug\net5.0\Persistance.deps.json
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\bin\Debug\net5.0\Persistance.dll
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\bin\Debug\net5.0\Persistance.pdb
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\bin\Debug\net5.0\Domain.dll
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\bin\Debug\net5.0\Domain.pdb
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.dll
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+C:\Users\babnishvyas\Documents\Work_Space\Personal_Projects\Project\Backed\Reactivities\Persistance\obj\Debug\net5.0\Persistance.pdb
