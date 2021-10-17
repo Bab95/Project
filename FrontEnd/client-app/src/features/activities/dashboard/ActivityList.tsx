@@ -16,16 +16,6 @@ export default function ActivityList({activities, selectActivity, deleteActivity
         deleteActivity(id);
     }
 
-    /*
-    function handleLoading(activity:Activity){
-        console.log("----handleLoading-------");
-        console.log(activity.id);
-        console.log(target);
-        console.log("----handleLoading-------END\n");
-        return submitting && target === activity.id;
-    }
-    */
-
     return (
         <Segment>
             <Item.Group divided>
