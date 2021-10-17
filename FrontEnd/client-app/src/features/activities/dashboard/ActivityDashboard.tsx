@@ -6,7 +6,6 @@ import ActivityDetails from "../details/ActivityDetails";
 import ActivityForm from "../form/ActivityForm";
 import ActivityList from "./ActivityList";
 
-
 export default observer (function ActivityDashboard(){
     
     const {activityStore} = useStore();
